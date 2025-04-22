@@ -106,7 +106,7 @@ define the zip file containing the sign language images and extract it to a fold
 
 Step 3: Train Model
 
-using tensorflow import associated addons to create a lightweight CNN model. when defining the model set it to 64 x 64 and single channel color. compile the model. to train set the patience and epochs to a number that makes sense for available time, more patience and more epochs generally leads tot greater model accuracy. 
+using tensorflow import associated addons to create a lightweight CNN model. when defining the model set it to 64 x 64 and single channel color. compile the model. to train set the patience and epochs to a number that makes sense for available time, more patience and more epochs generally leads to greater model accuracy. 
 
 Step 4: Test Model
 
